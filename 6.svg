@@ -2,7 +2,7 @@
   <style>
     @color-profile {
       name: ultracurvecmyk;
-      src: url(profile.icc);
+      src: url('https://lukaselmer.github.io/icc-profiles/profile.icc');
     }
   </style>
   <circle r="45" cx="50" cy="50" fill="#ff0000 icc-color(ultracurvecmyk, 0.83, 0.38, 0.40, 0.21)" />
